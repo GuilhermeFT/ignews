@@ -1,6 +1,6 @@
 {
   "extends": ["next", "next/core-web-vitals"],
   "rules": {
-    "eslint-disable-next-line": false
+    "eslint-disable-next-line": 0
   }
 }
